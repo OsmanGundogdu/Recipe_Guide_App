@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|c:\\users\\osman1\\desktop\\programlama\\yazlab\\1\\yazlab\\yazlab1\\yazlab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\yazlab1\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4775E858-92AA-42DA-8642-3CBEEA32A0AC}|Yazlab1\\Yazlab1.csproj|solutionrelative:yazlab1\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form1.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form1.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form1.cs",
+              "RelativeToolTip": "Yazlab1\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:03:12.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form1.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form1.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form1.cs [Design]",
+              "RelativeToolTip": "Yazlab1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T21:03:02.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form2.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form2.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form2.cs",
+              "RelativeToolTip": "Yazlab1\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:43:04.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form2.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form2.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form2.cs [Design]",
+              "RelativeToolTip": "Yazlab1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:04:17.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form3.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form3.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form3.cs",
+              "RelativeToolTip": "Yazlab1\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:02:57.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form3.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form3.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form3.cs [Design]",
+              "RelativeToolTip": "Yazlab1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:51:08.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form4.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form4.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form4.cs",
+              "RelativeToolTip": "Yazlab1\\Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:13:41.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form4.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form4.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form4.cs [Design]",
+              "RelativeToolTip": "Yazlab1\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:14:26.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form5.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form5.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form5.cs",
+              "RelativeToolTip": "Yazlab1\\Form5.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswLsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:01:37.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form5.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form5.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form5.cs [Design]",
+              "RelativeToolTip": "Yazlab1\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:54:53.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form6.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form6.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form6.cs",
+              "RelativeToolTip": "Yazlab1\\Form6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:06:43.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form6.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form6.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form6.cs [Design]",
+              "RelativeToolTip": "Yazlab1\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:56:05.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form7.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form7.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form7.cs",
+              "RelativeToolTip": "Yazlab1\\Form7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:07:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form7.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form7.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form7.cs [Design]",
+              "RelativeToolTip": "Yazlab1\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T20:04:59.88Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form8.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form8.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form8.cs",
+              "RelativeToolTip": "Yazlab1\\Form8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:29:15.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form8.cs",
+              "RelativeDocumentMoniker": "Yazlab1\\Form8.cs",
+              "ToolTip": "C:\\Users\\osman1\\Desktop\\Programlama\\Yazlab\\1\\Yazlab\\Yazlab1\\Yazlab1\\Form8.cs [Design]",
+              "RelativeToolTip": "Yazlab1\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:00:59.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
